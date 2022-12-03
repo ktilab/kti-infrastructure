@@ -1,0 +1,9 @@
+{
+    "remote.SSH.remotePlatform": {
+        "192.168.75.131": "linux",
+        "192.168.75.132": "linux",
+        "192.168.75.133": "linux"
+    },
+    "python.defaultInterpreterPath": "C:\\Users\\admin\\AppData\\Local\\Microsoft\\WindowsApps\\python3.10.exe",
+    "workbench.colorTheme": "Visual Studio Light"
+}

@@ -1,0 +1,74 @@
+2022-12-02 20:23:03.165 [info] Extension host agent started.
+2022-12-02 20:23:03.742 [info] [127.0.0.1][7b11905b][ManagementConnection] New connection established.
+2022-12-02 20:23:03.854 [info] [127.0.0.1][b56c7285][ExtensionHostConnection] New connection established.
+2022-12-02 20:23:03.927 [info] [127.0.0.1][b56c7285][ExtensionHostConnection] <1232> Launched Extension Host Process.
+2022-12-02 23:27:37.058 [warning] No ptyHost heartbeat after 6 seconds
+2022-12-02 23:27:54.080 [info] Getting Manifest... ms-azuretools.vscode-docker
+2022-12-02 23:27:54.319 [info] Installing extension: ms-azuretools.vscode-docker
+2022-12-02 23:27:57.902 [info] Extracted extension to /home/lab4bardadymso/.vscode-server/extensions/.fbf9f144-527e-4eb7-ab51-b67d03d49989: ms-azuretools.vscode-docker
+2022-12-02 23:27:57.920 [info] Renamed to /home/lab4bardadymso/.vscode-server/extensions/ms-azuretools.vscode-docker-1.23.1
+2022-12-02 23:27:57.940 [info] Extracting completed. ms-azuretools.vscode-docker
+2022-12-02 23:27:57.943 [info] Extension installed successfully: ms-azuretools.vscode-docker
+2022-12-03 01:09:07.671 [info] [127.0.0.1][3aae81db][ManagementConnection] New connection established.
+2022-12-03 01:09:07.692 [info] [127.0.0.1][e476605a][ExtensionHostConnection] New connection established.
+2022-12-03 01:09:07.780 [info] [127.0.0.1][e476605a][ExtensionHostConnection] <23148> Launched Extension Host Process.
+2022-12-03 01:09:18.297 [error] CodeExpectedError: Could not find pty on pty host
+    at d._throwIfNoPty (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:7199)
+    at d.updateTitle (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:2931)
+    at Object.call (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:17:5858)
+    at s.onPromise (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)
+    at s.onRawMessage (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)
+    at /home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:4502
+    at r.invoke (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at P.deliver (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)
+    at w.fire (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)
+    at process.M (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:9:21066)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-03 01:09:18.299 [error] CodeExpectedError: Could not find pty on pty host
+    at d._throwIfNoPty (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:7199)
+    at d.updateIcon (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:2993)
+    at Object.call (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:17:5858)
+    at s.onPromise (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)
+    at s.onRawMessage (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)
+    at /home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:4502
+    at r.invoke (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at P.deliver (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)
+    at w.fire (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)
+    at process.M (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:9:21066)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-03 01:10:40.469 [info] [127.0.0.1][3aae81db][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2022-12-03 01:10:40.609 [info] [127.0.0.1][e476605a][ExtensionHostConnection] <23148> Extension Host Process exited with code: 0, signal: null.
+2022-12-03 01:18:28.832 [info] [127.0.0.1][7b11905b][ManagementConnection] The client has reconnected.
+2022-12-03 01:18:28.850 [info] [127.0.0.1][b56c7285][ExtensionHostConnection] The client has reconnected.
+2022-12-03 01:18:29.983 [error] CodeExpectedError: Could not find pty on pty host
+    at d._throwIfNoPty (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:7199)
+    at d.updateIcon (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:2993)
+    at Object.call (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:17:5858)
+    at s.onPromise (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)
+    at s.onRawMessage (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)
+    at /home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:4502
+    at r.invoke (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at P.deliver (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)
+    at w.fire (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)
+    at process.M (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:9:21066)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2022-12-03 01:18:29.987 [error] CodeExpectedError: Could not find pty on pty host
+    at d._throwIfNoPty (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:7199)
+    at d.updateTitle (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:27:2931)
+    at Object.call (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:17:5858)
+    at s.onPromise (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5833)
+    at s.onRawMessage (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:5216)
+    at /home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:15:4502
+    at r.invoke (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at P.deliver (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:2275)
+    at w.fire (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:11:1853)
+    at process.M (/home/lab4bardadymso/.vscode-server/bin/6261075646f055b99068d3688932416f2346dd3b/out/vs/platform/terminal/node/ptyHostMain.js:9:21066)
+    at process.emit (node:events:526:28)
+    at emit (node:internal/child_process:938:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)

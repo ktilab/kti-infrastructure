@@ -1,0 +1,14 @@
+2022-12-01 11:16:26.341 [info] Extension host with pid 2098 started
+2022-12-01 11:16:26.464 [info] Lock '/home/lab4bardadymso/.vscode-server/data/User/workspaceStorage/873f585f72b5cb21b5e31d7ad54cf1f4/vscode.lock': Lock acquired.
+2022-12-01 11:16:26.667 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2022-12-01 11:16:27.471 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2022-12-01 11:16:27.482 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2022-12-01 11:16:28.492 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2022-12-01 11:16:28.493 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2022-12-01 11:16:28.494 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2022-12-01 11:16:28.495 [info] Eager extensions activated
+2022-12-01 11:16:51.689 [error] Error: connect ECONNREFUSED 20.189.173.7:443
+	at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2022-12-01 11:29:26.011 [info] Extension host terminating: received terminate message from renderer
+2022-12-01 11:29:26.051 [info] Lock '/home/lab4bardadymso/.vscode-server/data/User/workspaceStorage/873f585f72b5cb21b5e31d7ad54cf1f4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-01 11:29:26.486 [info] Extension host with pid 2098 exiting with code 0
