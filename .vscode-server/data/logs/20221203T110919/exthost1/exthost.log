@@ -11,3 +11,10 @@
 2022-12-03 11:09:32.683 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
 2022-12-03 11:09:32.684 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
 2022-12-03 11:09:32.685 [info] Eager extensions activated
+2022-12-03 11:33:58.527 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-03 11:33:58.557 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2022-12-03 11:33:58.558 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2022-12-03 11:33:58.561 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2022-12-03 11:34:00.771 [info] Extension host terminating: received terminate message from renderer
+2022-12-03 11:34:00.778 [info] Lock '/home/lab4bardadymso/.vscode-server/data/User/workspaceStorage/873f585f72b5cb21b5e31d7ad54cf1f4/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2022-12-03 11:34:00.815 [info] Extension host with pid 1341 exiting with code 0

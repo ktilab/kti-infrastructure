@@ -10,3 +10,18 @@ sudo reboot
 git init
 reboot
 sudo reboot
+git init
+git
+git --version
+sudo dnf install git
+git init
+git add .
+sudo git add .
+git commit -m 'init commit'
+git config --global user.email "skiesareawesome@gmail.com"
+git config --global user.name "ktilab"
+git config --list
+git commit -m 'init commit'
+sudo git commit -m 'init commit'
+git config --global user.name "lab4bardadymso"
+sudo git commit -m 'init commit'
