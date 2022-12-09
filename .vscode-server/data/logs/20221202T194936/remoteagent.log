@@ -1,5 +1,0 @@
-2022-12-02 19:49:36.722 [info] Extension host agent started.
-2022-12-02 19:49:37.710 [info] [127.0.0.1][335bf883][ManagementConnection] New connection established.
-2022-12-02 19:49:37.820 [info] [127.0.0.1][5c62a871][ExtensionHostConnection] New connection established.
-2022-12-02 19:49:37.940 [info] [127.0.0.1][5c62a871][ExtensionHostConnection] <1097> Launched Extension Host Process.
-2022-12-02 19:49:42.670 [warning] No ptyHost heartbeat after 6 seconds
